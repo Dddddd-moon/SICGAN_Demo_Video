@@ -1,7 +1,7 @@
 # SICGAN_Demo_Video
 This is a demo video to illustrate the effectiveness of SICGAN in the end-to-end time-varying vibration signals generation.
 
-For paper: "Speed-Induced Conditional Generative Adversarial Network for Time-varying Vibration Signal Generation"
+For paper: "Speed-Induced Conditional Generative Adversarial Network for Time-varying Vibration Signals Generation"
 
 这是一个演示视频，用于展示速度诱导条件对抗生成网络（SICGAN）在时变振动信号端到端生成中的有效性
 
